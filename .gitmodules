@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "primerTree"]
+	path = primerTree
+	url = https://github.com/mvesuviusc/primertree
+	shallow = true
+	registered = true
